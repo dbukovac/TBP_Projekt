@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TBP_Projekt", "TBP_Projekt\TBP_Projekt.csproj", "{AAA4D14C-C933-4658-937B-3BC49674D88E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA4D14C-C933-4658-937B-3BC49674D88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA4D14C-C933-4658-937B-3BC49674D88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA4D14C-C933-4658-937B-3BC49674D88E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AAA4D14C-C933-4658-937B-3BC49674D88E}.Debug|x86.Build.0 = Debug|Any CPU
+		{AAA4D14C-C933-4658-937B-3BC49674D88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA4D14C-C933-4658-937B-3BC49674D88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA4D14C-C933-4658-937B-3BC49674D88E}.Release|x86.ActiveCfg = Release|Any CPU
+		{AAA4D14C-C933-4658-937B-3BC49674D88E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D9F0C82-8069-4AB0-BFB2-F5C65B838779}
+	EndGlobalSection
+EndGlobal
